@@ -17,7 +17,7 @@ Algorithm Study Source -
 https://github.com/JeongJiSang/algorithm
 
 ### Semi Project List
-Open API collecting batch program used Spring Batch - to be developed
+Open API collector - https://github.com/JeongJiSang/api-collector
 
 Image Control Server - to be developed
 
