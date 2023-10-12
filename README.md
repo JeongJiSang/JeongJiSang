@@ -2,22 +2,23 @@
 
 ### Study List
 Spring Batch Study Source - 
-https://github.com/JeongJiSang/spring-batch-sample
+https://github.com/jbground/spring-batch-sample
 
 Spring JPA Study Source - 
-https://github.com/JeongJiSang/spring-jpa-sample
-
-gRPC Study Source - 
-https://github.com/JeongJiSang/java-grpc-sample
-
-Kotlin Study Source - 
-https://github.com/JeongJiSang/kotlin-study-sample
+https://github.com/jbground/spring-jpa-sample
 
 Algorithm Study Source - 
-https://github.com/JeongJiSang/algorithm
+https://github.com/jbground/algorithm
+
+gRPC Study Source - 
+https://github.com/jbground/java-grpc-sample
+
+Kotlin Study Source - 
+https://github.com/jbground/kotlin-study-sample
+
 
 ### Semi Project List
-Open API collector - https://github.com/JeongJiSang/api-collector
+Open API collector - https://github.com/jbground/api-collector
 
 Image Control Server - to be developed
 
