@@ -26,7 +26,7 @@ Message Object는 Annotation을 이용한 바인딩을 통해 secs byte message�
 
 #### 🌱Spring Study Sample
 스프링을 이용한 학습 내용 및 예제를 기록합니다.
-- https://github.com/jbground/spring-jpa-sample
+- https://github.com/jbground/spring-sample
 </br>
 
 
