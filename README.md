@@ -10,7 +10,8 @@ A-Star 알고리즘을 이용한 최적 경로 탐색 기능이 탑재되어 있
 #### ⚡SECS Protocol Convertion Server
 SECS 프로토콜을 적용하여 byte[] -> Message Object , Message Object -> byte[]를 담당하는 서버입니다.
 Message Object는 Annotation을 이용한 바인딩을 통해 secs byte message와 매핑할 수 있습니다.
-- https://github.com/jbground/secs-core
+- git : https://github.com/jbground/secs-core
+- blog : https://jbground.tistory.com/62
 
 </br>
 
